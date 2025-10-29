@@ -1,4 +1,4 @@
-u_name = "user"
+u_name = "123_user_123"
 p_word = "123456789"
 
 while True:
@@ -15,4 +15,5 @@ while True:
             print("Грешна парола. Опитай пак.\n")
     else:
         print("Грешно потребителско име. Опитай пак.\n")
+
 
