@@ -1,5 +1,5 @@
 u_name = "user"
-p_word = "1"
+p_word = "123456789"
 
 while True:
     username = input("Въведи потребителско име: ")
@@ -15,3 +15,4 @@ while True:
             print("Грешна парола. Опитай пак.\n")
     else:
         print("Грешно потребителско име. Опитай пак.\n")
+
